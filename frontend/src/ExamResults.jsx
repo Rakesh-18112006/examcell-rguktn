@@ -58,7 +58,7 @@ const ExamResults = () => {
           />
         </div>
 
-        <button type="submit" className="w-full bg-blue-500 text-white py-2 rounded-md hover:bg-blue-600 transition">
+        <button type="submit" className="w-full bg-[#357ca5] text-white py-2 rounded-md hover:bg-[#357ca5] transition">
           Submit
         </button>
       </form>
